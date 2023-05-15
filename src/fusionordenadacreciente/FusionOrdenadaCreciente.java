@@ -21,6 +21,7 @@ public class FusionOrdenadaCreciente {
 
         int arraySize1;
         int a = 2;
+        int b = 4;
         int[] array1;
 
         int arraySize2;
